@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	border: 0;
+}
+.centerImage {
+	text-align: center;
+}
+.product {
+	margin: 40px;
+
+	display: inline-block;
+	text-align: center;
+}
+.textCenter {
+	text-align: center;
+}
